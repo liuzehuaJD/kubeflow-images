@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/frontend:0.1.7
+From gcr.io/spinnaker-marketplace/halyard:1.16.0
